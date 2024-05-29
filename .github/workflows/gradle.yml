@@ -44,4 +44,4 @@ jobs:
 
         username: ${{ sylva12345/gradle.yml}}
 
-        password: ${{ osas@1234567 }}
+        password: ${{ Osas1234567 }}
